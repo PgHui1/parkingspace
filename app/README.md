@@ -13,5 +13,6 @@ https://education-teacher-avatar.oss-cn-hangzhou.aliyuncs.com/image-202205141152
 
 - 样式是参考其他网站的，但代码是自己写的，没用现成模板
 
-![image-20220514115317342](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220514115317342.png)
+![image-20220514115317342](
+https://education-teacher-avatar.oss-cn-hangzhou.aliyuncs.com/image-20220514115317342.png)
 
